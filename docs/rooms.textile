@@ -1,0 +1,19 @@
+h1. Rooms
+
+Rooms are the individual entities on a floor. A room is comprised of an event. That event could be one of the following:
+
+* Treasure
+* Encounter Creature
+* Encounter Trap
+* Encounter Puzzle
+* Spa (Healing)
+* Shop
+
+h2. Rewards
+
+Rooms contain a reward. Depending on the type of room, there may be some objectives required to complete before recieving the reward. Most rooms offer several rewards:
+
+- Gold := a currency used to buy items or services.
+- Stat := a stat increase on your character.
+- Skill := a new skill the player can use.
+- Effect := a status or effect on the player.
