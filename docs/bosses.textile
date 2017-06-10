@@ -1,0 +1,12 @@
+h1. Bosses
+
+Each dungeon contains a boss character. The player can make their choice on which boss they would like to face. That boss determines the dungeon, encounter types and layout of the floors.
+Bosses determine what the player's experience will be. They have a few factors that play into what the player will experience in that dungeon.
+
+h2. Determinations
+
+Bosses determine the dungeon composition
+
+- Encounter Types := bosses may specify which encounter types are found in this dungeon, or which are more common to occurr. Some bosses may specialize in traps for example.
+- Layout := bosses may specify that the player must clear 4 floors before facing the boss.
+- Room count := bosses may also specify how many rooms there are and on what floors.
