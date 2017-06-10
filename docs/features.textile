@@ -1,0 +1,12 @@
+h1. Features
+
+h2. Additional Features
+
+- Mercs := for gold, the player can hire a merc to fight with them, dealing extra damage.
+- Goblin := 
+    the player can give the goblin gold to
+
+    * Destroy rooms so the player can avoid them.
+    * Reveal room types to the player.=:
+
+- Demon := the player can give the demon health to gain a powerful ability.
